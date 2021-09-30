@@ -22,4 +22,4 @@ The annotation for the version 3.0 of the assembly is available at:
 
 ## GenBank 
 
-Contains only primary annotation (file pr1v3.0.gff3)
+Contains only the primary annotation (file pr1v3.0.gff3)
