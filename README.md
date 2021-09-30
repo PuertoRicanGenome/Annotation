@@ -21,5 +21,3 @@ The annotation for the version 3.0 is available at:
 ## GenBank 
 
 Contains only primary annotation (file pr1v3.0.gff3)
-
-
