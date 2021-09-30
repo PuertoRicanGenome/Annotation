@@ -10,5 +10,5 @@ Aleksey Zimin, Alaina Shumate, Ida Shinder, Jakob Heinz, Daniela Puiu, Mihaela P
 
 The annotation for the version 3.0 is available at:
 
-* ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v3.0/Annotation_CHESS/
+* ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v3.0/Annotation/
 
