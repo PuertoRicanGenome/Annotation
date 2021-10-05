@@ -43,5 +43,5 @@ Aleksey Zimin, Alaina Shumate, Ida Shinder, Jakob Heinz, Daniela Puiu, Mihaela P
 |chrM|13|13|
 |chrX|1334|1176|
 |chrY|184|142|
-|chrU|.|2|
+|unplaced|.|2|
 |Total|42168|37755|
