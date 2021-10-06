@@ -16,29 +16,32 @@ Aleksey Zimin, Alaina Shumate, Ida Shinder, Jakob Heinz, Daniela Puiu, Mihaela P
  
 * ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v3.0/Annotation/pr1v3.0_chess_final.gff3 : Genes lifted over from the CHESS2.2 annotation of GRCh38.
 
-|chromosome|PR1 #genes|
-|----|----|
-|chr1|3539|
-|chr2|2534|
-|chr3|1957|
-|chr4|1592|
-|chr5|1893|
-|chr6|1884|
-|chr7|1688|
-|chr8|1542|
-|chr9|1399|
-|chr10|1455|
-|chr11|2123|
-|chr12|1978|
-|chr13|916|
-|chr14|1259|
-|chr15|1382|
-|chr16|1785|
-|chr17|2092|
-|chr18|813|
-|chr19|2134|
-|chr20|1000|
-|chr21|611|
-|chr22|899|
-|chrX|1182|
-|chrM|13|
+|chromosome|CHM13 #genes|PR1 #genes|
+|----|----|----|
+|chr1|3539|3535|
+|chr2|2534|2534|
+|chr3|1957|1957|
+|chr4|1592|1591|
+|chr5|1893|1892|
+|chr6|1884|1882|
+|chr7|1688|1683|
+|chr8|1542|1541|
+|chr9|1399|1396|
+|chr10|1455|1453|
+|chr11|2123|2114|
+|chr12|1978|1977|
+|chr13|916|916|
+|chr14|1259|1258|
+|chr15|1382|1382|
+|chr16|1785|1781|
+|chr17|2092|2080|
+|chr18|813|813|
+|chr19|2134|2127|
+|chr20|1000|1001|
+|chr21|611|611|
+|chr22|899|898|
+|chrX|1182|13|
+|chrY|0|1176|
+|chrM|13|142|
+|unplaced|0|2|
+|Total|37670|37755|
