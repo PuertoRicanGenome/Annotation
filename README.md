@@ -16,6 +16,8 @@ Aleksey Zimin, Alaina Shumate, Ida Shinder, Jakob Heinz, Daniela Puiu, Mihaela P
  
 * ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v3.0/Annotation/pr1v3.0_chess_final.gff3 <br>Genes lifted over from the CHESS2.2 annotation of GRCh38.
 
+(username:anonymous, no password)
+
 |chromosome|CHM13 #genes|PR1 #genes|
 |----|----|----|
 |chr1|3,539|3,535|
