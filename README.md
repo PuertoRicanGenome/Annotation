@@ -5,8 +5,10 @@ This repository contains links to a Puerto Rican individual genome annotation.
 This is an initial version described in:
 
 Aleksey Zimin, Alaina Shumate, Ida Shinder, Jakob Heinz, Daniela Puiu, Mihaela Pertea, and Steven L. Salzberg
+`A reference-quality, fully annotated genome from a Puerto Rican individual`, 
 
-`A reference-quality, fully annotated genome from a Puerto Rican individual`, available online at   https://www.biorxiv.org/content/10.1101/2021.06.10.447952v3 .A final version of the paper is in press as of November 2021 at the journal Genetics.
+The article is available online at https://www.biorxiv.org/content/10.1101/2021.06.10.447952v3 
+A final version of the paper is in press as of November 2021 at the journal Genetics.
 
  The GFF annotation for the version 3.0 of the assembly is available at:
 
